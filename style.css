@@ -9,3 +9,18 @@ beader {
     font-size: 32px;
     color: rgb(42, 122, 228);
 }
+h1 { 
+    font-size: 40px
+}
+p {
+    font-size: 20px
+}
+img {
+    height
+}
+
+.categoria-videos{
+    display:flex/
+    overflow-x:auto;
+    gap: 10px;
+}
